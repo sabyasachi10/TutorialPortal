@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class PortalController {
 
-    @RequestMapping("/homePage")
+    @RequestMapping("/admin")
     public String greeting() {
     	System.out.println("Hii");
         return "homePage";
