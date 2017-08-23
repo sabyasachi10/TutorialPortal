@@ -7,4 +7,4 @@ Below are the steps to install the project
 3. Delete the project from sts.
 4. Import as a Gradle project.
 5. Run the project as a Springboot.
-6. http://localhost:8080
+6. http://localhost:8080 
